@@ -1,5 +1,8 @@
 {
-  "zpp": 1,
+  "zpp": {
+    "status": 1,
+    "url": "https://cx.baidu.com/home/?ru=639873178407829504%26f=wyyshw"
+  },
   "ouyitong": {
     "status": 0,
     "url": "https://www.baidu.com"
